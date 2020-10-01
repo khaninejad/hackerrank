@@ -1,6 +1,7 @@
 
 
-# hackerrank
+# Hacker Rank Challenges Solutions
+My coding practices during rest time.
 
  **Sales by Match (C#)**
 [Challenge](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution](https://github.com/khaninejad/hackerrank/tree/master/SalesbyMatch)   
@@ -10,3 +11,6 @@
 
 **Jumping on the Clouds (C#)**
 [Challenge](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)  | [Solution](https://github.com/khaninejad/hackerrank/tree/master/JumpingOnTheClouds)
+
+**Repeated String (C#)**
+[Challenge](https://www.hackerrank.com/challenges/repeated-string/)  | [Solution](https://github.com/khaninejad/hackerrank/tree/master/RepeatedString)
