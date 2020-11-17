@@ -14,3 +14,6 @@ My coding practices during rest time.
 
 **Repeated String (C#)**
 [Challenge](https://www.hackerrank.com/challenges/repeated-string/)  | [Solution](https://github.com/khaninejad/hackerrank/tree/master/RepeatedString)
+
+**2D Array - DS (C#)**
+[Challenge](https://www.hackerrank.com/challenges/2d-array/problem)  | [Solution](https://github.com/khaninejad/hackerrank/tree/master/2D%20Array%20-%20DS/2D%20Array%20-%20DS)
