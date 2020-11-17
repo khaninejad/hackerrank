@@ -55,10 +55,10 @@ My coding practices during rest time.
 [Challenge](https://www.hackerrank.com/challenges/database-normalization-1-1nf/problem)  | [Solution](https://github.com/khaninejad/hackerrank/blob/master/Database/Database%20Normalization%20%231%20-%201NF.txt)
 
 **Database Normalization #2**
-[Challenge](https://www.hackerrank.com/challenges/database-normalization-2)  | [Solution]https://github.com/khaninejad/hackerrank/blob/master/Database/Database%20Normalization%20%232%20-%201/2/3%20NF.txt)
+[Challenge](https://www.hackerrank.com/challenges/database-normalization-2)  | [Solution](https://github.com/khaninejad/hackerrank/blob/master/Database/Database%20Normalization%20%232%20-%201/2/3%20NF.txt)
 
 **Database Normalization #3**
-[Challenge](https://www.hackerrank.com/challenges/database-normalization-3)  | [Solution]https://github.com/khaninejad/hackerrank/blob/master/Database/Database%20Normalization%20%233.txt)
+[Challenge](https://www.hackerrank.com/challenges/database-normalization-3)  | [Solution](https://github.com/khaninejad/hackerrank/blob/master/Database/Database%20Normalization%20%233.txt)
 
 **Database Normalization #4**
-[Challenge](https://www.hackerrank.com/challenges/database-normalization-4)  | [Solution]https://github.com/khaninejad/hackerrank/blob/master/Database/Database%20Normalization%20%234.txt)
+[Challenge](https://www.hackerrank.com/challenges/database-normalization-4)  | [Solution](https://github.com/khaninejad/hackerrank/blob/master/Database/Database%20Normalization%20%234.txt)
